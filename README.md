@@ -1,4 +1,4 @@
-# TCC Manager: TCC Match - Porjeto de Software :school:
+# TCC Manager: TCC Match :school:
 
 ## Objetivo
 
