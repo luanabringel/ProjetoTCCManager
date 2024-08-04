@@ -1,4 +1,4 @@
-# TCC Manager: TCC Match :school:
+# TCC Manager: TCC Match   🧑‍🏫 🏫
 
 ## Objetivo
 
